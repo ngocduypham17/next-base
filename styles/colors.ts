@@ -1,0 +1,8 @@
+export const ORANGE_PRIMARY_COLOR = '#ff6719'
+export const WHITE_COLOR = '#FFF'
+export const LOGIN_FORM_COLOR_PRIMARY = '#000000bf'
+export const TEXT_COLOR_PRIMARY = '#404040'
+export const BORDER_COLOR = '#EAEAEA'
+export const GRAY_COLOR = '#EEEEEE'
+export const COLOR_DECLINE = '#F30404'
+export const COLOR_APPROVED = '#54B435'

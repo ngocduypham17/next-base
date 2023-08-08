@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "node_modules/_app.tsx"  ],
+, "node_modules/_app.tsx", "components/ParticlesBackground/index.tsx", "configs/particles-config.js", "pages/api/auth/[...nextauth].js"  ],
   "exclude": [
     "node_modules"
   ]
